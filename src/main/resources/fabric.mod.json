@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "ultimatepick",
+	"version": "${version}",
+	"name": "Ultimate Pick",
+	"description": "This is simple mod for an ultimate pickaxe",
+	"authors": [
+		"Redslugah!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/ultimatepick/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.redslugah.ultimatepick.UltimatePick"
+		],
+		"fabric-datagen": [
+			"net.redslugah.ultimatepick.UltimatePickDataGenerator"
+		],
+        "Client": [
+          "net.redslugah.ultimatepick.UltimatePickClient"
+        ]
+	},
+	"mixins": [
+		"ultimatepick.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
