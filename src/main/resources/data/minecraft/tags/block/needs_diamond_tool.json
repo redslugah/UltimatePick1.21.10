@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ultimatepick:ultimate_gem_block",
+    "ultimatepick:raw_ultimate_gem_block",
+    "ultimatepick:ultimate_gem_ore",
+    "ultimatepick:ultimate_gem_deepslate_ore"
+  ]
+}

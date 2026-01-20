@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "ultimate_gem",
+  "ingredient": [
+    "ultimatepick:raw_ultimate_gem"
+  ],
+  "result": {
+    "id": "ultimatepick:ultimate_gem"
+  }
+}

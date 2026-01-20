@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ultimatepick:block/ultimate_gem_deepslate_ore"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "item.ultimatepick.ultimate_gem": "Ultimate Gem",
+  "item.ultimatepick.raw_ultimate_gem": "Raw Ultimate Gem",
+
+  "item.ultimatepick.chisel": "Chisel",
+  "item.ultimatepick.ultimate_gem_block": "Block of Ultimate Gem",
+  "item.ultimatepick.raw_ultimate_gem_block": "Block of Raw Ultimate Gem",
+  "block.ultimatepick.ultimate_gem_block": "Block of Ultimate Gem",
+  "block.ultimatepick.raw_ultimate_gem_block": "Block of Raw Ultimate Gem",
+  "itemgroup.ultimatepick.ultimate_pick_items": "Ultimate Pick Items",
+  "itemgroup.ultimatepick.ultimate_pick_blocks": "Ultimate Pick Blocks",
+
+  "tooltip.ultimatepick.golden_chicken.tooltip": "Shinny!",
+  "item.ultimatepick.golden_chicken": "Golden Chicken",
+  "block.ultimatepick.magic_block": "Magic Block",
+  "item.ultimatepick.magic_block": "Magic Block",
+
+  "tag.item.ultimatepick.transformable_items": "Transformable Items",
+  "item.ultimatepick.ultimate_gem_ore": "Ultimate Gem Ore",
+  "item.ultimatepick.ultimate_gem_deepslate_ore": "Ultimate Gem Deepslate Ore",
+  "block.ultimatepick.ultimate_gem_ore": "Ultimate Gem Ore",
+  "block.ultimatepick.ultimate_gem_deepslate_ore": "Ultimate Gem Deepslate Ore"
+}
